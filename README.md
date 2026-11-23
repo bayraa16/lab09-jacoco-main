@@ -1,3 +1,24 @@
+# Лаборатори 9 
+
+- Баяржавхлан
+- B222270019
+
+## Орчин
+
+```text
+openjdk version "21.0.13" 2026-10-20 LTS
+OpenJDK Runtime Environment Temurin-21.0.13+9 (build 21.0.13+9-LTS)
+OpenJDK 64-Bit Server VM Temurin-21.0.13+9 (build 21.0.13+9-LTS, mixed mode, sharing)
+```
+
+```text
+Apache Maven 3.10.1 (3afd8084b5629f80b97750906a719879ed4cd283)
+Maven home: C:\Users\hp\Downloads\apache-maven-3.10.1-bin\apache-maven-3.10.1
+Java version: 21.0.13, vendor: Eclipse Adoptium, runtime: C:\Program Files\Eclipse Adoptium\jdk-21.0.13.9-hotspot
+Default locale: en_US, platform encoding: UTF-8, time zone: Asia/Shanghai
+OS name: "windows 11", version: "10.0", arch: "amd64", family: "windows"
+```
+
 ## A — Хэвийн урсгалын тест
 
 Хэвийн урсгалыг шалгах эхний 5 тест бүгд алдаагүй ажилласан. `results/jacoco-A.csv`-ээс харахад Line хамралт 14/25 буюу 56.0%, Branch хамралт 18/41 буюу 43.9% гарсан.
